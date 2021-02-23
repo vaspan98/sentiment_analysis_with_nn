@@ -4,11 +4,6 @@ Sentiment Analysis on Tweets using Recurrent Neural Networks
 ## Description / Goals 
 Our goal is to develop a sentiment classifier using different bidirectional stacked RNNs with LSTM/GRU cells for a Twitter Sentiment Analysis dataset.
 We experiment with different word embeddings (tf-idf, GloVe) and parametres as:
-* the number of hidden layers, and the number of their units
-* the activation functions 
-* the loss function
-* the optimizer, etc
-
 * the number of stacked RNNs
 * the number of hidden layers
 * the type of cells 
