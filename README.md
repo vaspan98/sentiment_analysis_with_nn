@@ -10,6 +10,11 @@ Python
 ## Libraries
 PyTorch, Pandas, Numpy
 
+## Tips
+Add the 'SentimentTweets.csv' dataset in your 'gdrive/My Drive/Colab Notebooks/' to execute correctly
+
+Suggested Runtime Type: GPU
+
 ## Author
 Vassilis Panagakis
 
