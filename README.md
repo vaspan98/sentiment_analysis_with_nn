@@ -11,7 +11,7 @@ Python
 PyTorch, Pandas, Numpy
 
 ## Tips
-Add the 'SentimentTweets.csv' dataset in your 'gdrive/My Drive/Colab Notebooks/' to execute correctly
+Add the 'SentimentTweets.csv' dataset in your 'gdrive/My Drive/Colab Notebooks/' path to execute correctly
 
 Suggested Runtime Type: GPU
 
