@@ -4,7 +4,7 @@ Sentiment Analysis on Tweets using different types of Neural Networks
 ## Platform
 Google Collab
 
-## Language
+## Programming Language
 Python
 
 ## Libraries
@@ -17,6 +17,3 @@ Suggested Runtime Type: GPU
 
 ## Author
 Vassilis Panagakis
-
-## Date
-December 2020
