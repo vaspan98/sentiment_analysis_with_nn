@@ -4,7 +4,7 @@ Sentiment Analysis on Tweets using Feed-forward Neural Networks
 
 ## Description / Goals 
 Our goal is to develop a sentiment classifier using Feed-forward Neural Networks for a Twitter Sentiment Analysis dataset.
-We experiment with different word embeddings (tf-idf, GloVe) and parametres as:
+We experiment with different word embeddings (tf-idf, GloVe) and parameters as:
 * the number of hidden layers, and the number of their units
 * the activation functions 
 * the loss function
